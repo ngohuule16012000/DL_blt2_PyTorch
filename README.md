@@ -1,4 +1,4 @@
-# DL_blt2_PyTorch
+# DL_btl2_PyTorch
 Thành viên:
 Ngô Hữu Lễ - 51800571
 
